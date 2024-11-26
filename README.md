@@ -1,5 +1,11 @@
 # SocialNetAnalyzer
 
+![image](https://github.com/user-attachments/assets/146e741c-c5d7-43e2-8f23-22f79e00493e)
+
+![image](https://github.com/user-attachments/assets/4d0eef45-d047-45c3-8195-6311a81930d2)
+
+
+
 ## Overview
 
 The goal of this project is to perform descriptive analysis of your social ego-network (a network of your connections, excluding yourself). The project consists of the following steps:
