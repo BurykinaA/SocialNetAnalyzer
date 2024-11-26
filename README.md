@@ -10,7 +10,7 @@
 
 ## Overview
 
-The goal of this project is to perform descriptive analysis of your social ego-network (a network of your connections, excluding yourself). The project consists of the following steps:
+The goal of this project is to perform descriptive analysis of my social ego-network (a network of your connections, excluding yourself). The project consists of the following steps:
 
 1. **Data Collection**: Gather data from an online service (VK) and create a network of your friends (first-order connections only).
 2. **Analysis and Visualization**: Analyse the collected data and prepare visualizations.
