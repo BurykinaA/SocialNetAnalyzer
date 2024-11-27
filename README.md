@@ -1,5 +1,8 @@
 # SocialNetAnalyzer
 
+A small presentation is available [here](https://docs.google.com/presentation/d/13xb4kHMucgrdgDHChWGWL__BwKVm51Pmxj6EynEx674/edit?usp=sharing).
+---
+
 <p>
   <img src="https://github.com/user-attachments/assets/146e741c-c5d7-43e2-8f23-22f79e00493e" alt="image1" width="400">
 </p>
